@@ -1,3 +1,3 @@
 # gpsumCalc
-Simple gematria primus sunm calculator in the terminal
+Simple gematria primus sum calculator in the terminal
 
